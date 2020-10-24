@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  go: circleci/go@x.y
+  go: circleci/go@1.4.0
 workflows:
   main:
     jobs:
